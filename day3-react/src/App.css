@@ -1,0 +1,9 @@
+#root {
+  background-color: #23252c;
+  margin: 0;
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
